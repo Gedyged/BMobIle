@@ -17,4 +17,5 @@ Gerard Malabanan and Val Randolf Madrid
 
 # References
 https://codelabs.developers.google.com/codelabs/arcore-rawdepthapi#0
+
 https://github.com/luiscal4a/ARCore-Projects
